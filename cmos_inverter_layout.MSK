@@ -1,0 +1,33 @@
+VERSION 14-07-2024 19:44:56
+FIG #C:\Users\vlsi\Desktop\CMOS\codes_cmos\cmos_inverter_layout.MSK
+BB(4,-12,89,52)
+SIMU #5.00
+REC(4,16,76,31,NW)
+REC(49,23,25,15,DP)
+REC(13,23,25,15,DP)
+REC(49,-4,23,12,DN)
+REC(20,-4,18,12,DN)
+REC(59,25,5,7,CO)
+REC(60,1,5,5,CO)
+REC(24,-2,5,5,CO)
+REC(16,29,4,8,CO)
+REC(38,-12,11,62,PO)
+REC(7,11,31,4,PO)
+REC(58,11,31,4,ME)
+REC(14,28,8,24,ME)
+REC(58,0,8,11,ME)
+REC(58,15,8,18,ME)
+REC(23,-9,7,14,ME)
+REC(38,23,11,15,DP)
+REC(38,-4,11,12,DN)
+TITLE 17 50  #Vdd
+$1 1000 0 
+TITLE 77 40  #Vdd
+$1 1000 0 
+TITLE 12 13  #clock1
+$c 1000 0 0.2250 0.4500 0.5500 0.5750 
+TITLE 84 14  #output
+$v 1000 0 
+TITLE 26 -7  #Vss
+$0 1000 0 
+FFIG C:\Users\vlsi\Desktop\CMOS\codes_cmos\cmos_inverter_layout.MSK
